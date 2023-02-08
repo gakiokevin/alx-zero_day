@@ -1,2 +1,1 @@
-My first readme
-Repo-session
+Learning how to use git and github
